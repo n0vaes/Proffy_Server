@@ -1,13 +1,32 @@
-# Funcionalidades
+<h1 align="center">
+<br>
+Proffy's Web and Mobile server side
+</h1>
 
-## Conexões
+<hr />
 
-- Rota para listara o total de conexões realizadas;
-- Rota para criar uma nova conexão;
+> Study project to learn NodeJS
 
-## Aulas
 
-- Rota para criar uma aula;
-- Rota para listar aulas;
-  - Filtrar por matéria, dia da semana e horário;
+## About Proffy
+Proffy is a study project developed during Rocketseat's NLW. This repository contains the server side of said project.
 
+<br /> <br />
+
+## Features
+
+- Cors: yarn add cors
+- Express: yarn add expres
+- Knex: yarn add knex
+- NodeJS: https://nodejs.org/en/
+- SQlite3: yarn add sqlite3
+
+> You can swap yarn commands with npm
+
+## Getting started
+
+Import the codes
+
+```sh
+yarn start
+```
